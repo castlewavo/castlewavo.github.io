@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://castlewavo.github.io/sitemap.xml
